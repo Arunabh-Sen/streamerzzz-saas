@@ -21,8 +21,8 @@ Streamerzzz is a SaaS platform designed to help streamers optimize their streams
 
 ## Tech Stack  
 - **Frontend:** React, Tailwind CSS, Framer Motion  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB / Firebase  
+- **Backend:** Adding Soon!
+- **Database:** Adding Soon!
 - **Hosting:** Netlify
 
 ## Screenshots
