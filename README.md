@@ -3,22 +3,6 @@
 ## About Streamerzzz  
 Streamerzzz is a SaaS platform designed to help streamers optimize their streams, track real-time analytics, and engage their audience. It supports Twitch, YouTube, and Facebook Gaming, providing all the essential tools in one place.
 
-## Features  
-- **Real-Time Stream Analytics** – Monitor audience engagement and performance.  
-- **Automated Stream Management** – Set up alerts, schedules, and workflows.  
-- **Audience Engagement Tools** – Custom alerts, chat overlays, and giveaways.  
-- **Multi-Platform Support** – Integrate seamlessly with Twitch, YouTube, and Facebook.  
-- **Monetization Features** – Enable subscriptions, donations, and sponsorships.  
-- **4K Ultra HD Streaming** – Professional-grade streaming for top-tier users.  
-
-## How It Works  
-1. **Set Up Your Streaming Environment** – Connect your accounts easily.  
-2. **Engage with Your Audience** – Use interactive tools to build engagement.  
-3. **Track & Analyze Performance** – Access real-time analytics and insights.  
-4. **Optimize Your Stream Settings** – Improve quality and efficiency.  
-5. **Monetize Your Streams** – Unlock revenue opportunities.  
-6. **Automate Your Workflows** – Streamline alerts, scheduling, and promotions.  
-
 ## Tech Stack  
 - **Frontend:** React, Tailwind CSS, Framer Motion  
 - **Backend:** Adding Soon!
